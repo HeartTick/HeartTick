@@ -33,3 +33,11 @@ a passionate engineering student currently in my 3rd year of studies. My journey
 <a href="http://www.github.com/HeartTick"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HeartTick&stroke=14b8a6&background=000000&ring=ec4899&fire=ec4899&currStreakNum=14b8a6&currStreakLabel=ec4899&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
 <a href="https://github.com/HeartTick" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeartTick&langs_count=10&title_color=ec4899&text_color=14b8a6&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />  </a>
+</div>
