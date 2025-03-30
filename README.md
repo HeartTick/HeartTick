@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Engineering Graduate
 --------------------
 
-a passionate engineering student currently in my 3rd year of studies. My journey in the world of technology has been nothing short of exhilarating, and I'm constantly seeking new challenges to broaden my skills.
+a passionate engineering student currently in my 4rd year of studies. My journey in the world of technology has been nothing short of exhilarating, and I'm constantly seeking new challenges to broaden my skills.
 
 * 🌍  I'm based in Hydrabad,Telengana
 * ✉️  You can contact me at [patanahmedk@gmail.com](mailto:patanahmedk@gmail.com)
