@@ -1,6 +1,7 @@
 # Hi, I'm Ahmed Khan Patan
 
 Software Engineer with professional experience in Python, Django REST Framework, Flask, AWS, PostgreSQL, Redis, Docker, Next.js, and CI/CD.
+Open to Werkstudent / Working Student opportunities in Software Engineering, Backend, Cloud, and Full-Stack Development in Germany.
 
 I’ve worked on:
 - Role-based access-control platforms
