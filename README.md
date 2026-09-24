@@ -15,7 +15,7 @@ I’ve worked on:
 Python • Django • Flask • AWS • PostgreSQL • Redis • Docker • Next.js • TypeScript • GitHub Actions
 
 ## Currently
-- Incoming M.Sc. Computational Modeling and Simulation student at TU Dresden
+- M.Sc. Computational Modeling and Simulation student at TU Dresden
 - Building stronger independent backend/cloud projects
 - Looking for Working Student / Werkstudent software-engineering opportunities in Germany
 
